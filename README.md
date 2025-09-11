@@ -72,7 +72,7 @@ Dall'analisi del dashboard sono emersi i seguenti punti chiave:
 
 ---
 
-### 📂 Struttura del Repository
+### Struttura del Repository
 
 * `/Progetto_Europa.pbix`: Il file sorgente del report Power BI.
 * `/data/`: Contiene i file `.csv` originali scaricati da Eurostat.
