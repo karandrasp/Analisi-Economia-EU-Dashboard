@@ -1,0 +1,893 @@
+ID_Stato,Regione,Stato,Anno,Valore
+1.0,UE Occidentale,Austria,2000,41051.73
+1.0,UE Occidentale,Austria,2001,41547.98
+1.0,UE Occidentale,Austria,2002,42359.02
+1.0,UE Occidentale,Austria,2003,43913.64
+1.0,UE Occidentale,Austria,2004,44008.93
+1.0,UE Occidentale,Austria,2005,45567.52
+1.0,UE Occidentale,Austria,2006,46782.92
+1.0,UE Occidentale,Austria,2007,47940.45
+1.0,UE Occidentale,Austria,2008,48984.17
+1.0,UE Occidentale,Austria,2009,50855.76
+1.0,UE Occidentale,Austria,2010,51540.31
+1.0,UE Occidentale,Austria,2011,52751.34
+1.0,UE Occidentale,Austria,2012,53786.12
+1.0,UE Occidentale,Austria,2013,55041.07
+1.0,UE Occidentale,Austria,2014,55930.69
+1.0,UE Occidentale,Austria,2015,57048.28
+1.0,UE Occidentale,Austria,2016,61203.06
+1.0,UE Occidentale,Austria,2017,62166.29
+1.0,UE Occidentale,Austria,2018,63281.87
+1.0,UE Occidentale,Austria,2019,64650.25
+1.0,UE Occidentale,Austria,2020,66064.73
+1.0,UE Occidentale,Austria,2021,67424.41
+1.0,UE Occidentale,Austria,2022,72001.22
+1.0,UE Occidentale,Austria,2023,76751.81
+1.0,UE Occidentale,Austria,2024,83494.82
+1.0,UE Occidentale,Austria,2025,87944.51342514098
+1.0,UE Occidentale,Austria,2026,91511.10482805503
+1.0,UE Occidentale,Austria,2027,95077.6962309691
+1.0,UE Occidentale,Austria,2028,98654.05911717883
+2.0,UE Occidentale,Belgium,2000,35263.63
+2.0,UE Occidentale,Belgium,2001,36934.61
+2.0,UE Occidentale,Belgium,2002,38527.48
+2.0,UE Occidentale,Belgium,2003,39631.35
+2.0,UE Occidentale,Belgium,2004,41428.01
+2.0,UE Occidentale,Belgium,2005,42495.87
+2.0,UE Occidentale,Belgium,2006,43713.29
+2.0,UE Occidentale,Belgium,2007,44765.75
+2.0,UE Occidentale,Belgium,2008,46826.33
+2.0,UE Occidentale,Belgium,2009,48690.76
+2.0,UE Occidentale,Belgium,2010,49818.41
+2.0,UE Occidentale,Belgium,2011,51136.8
+2.0,UE Occidentale,Belgium,2012,52697.77
+2.0,UE Occidentale,Belgium,2013,53346.85
+2.0,UE Occidentale,Belgium,2014,53685.01
+2.0,UE Occidentale,Belgium,2015,54032.41
+2.0,UE Occidentale,Belgium,2016,55257.2
+2.0,UE Occidentale,Belgium,2017,56606.48
+2.0,UE Occidentale,Belgium,2018,58625.73
+2.0,UE Occidentale,Belgium,2019,60544.62
+2.0,UE Occidentale,Belgium,2020,61256.97
+2.0,UE Occidentale,Belgium,2021,62327.17
+2.0,UE Occidentale,Belgium,2022,66057.59
+2.0,UE Occidentale,Belgium,2023,71232.23
+2.0,UE Occidentale,Belgium,2024,73736.6
+2.0,UE Occidentale,Belgium,2025,78344.11501833824
+2.0,UE Occidentale,Belgium,2026,81099.64657987189
+2.0,UE Occidentale,Belgium,2027,83855.17814140554
+2.0,UE Occidentale,Belgium,2028,86618.25910447762
+4.0,UE Est Centrale,Bulgaria,2008,5211.72
+4.0,UE Est Centrale,Bulgaria,2009,5902.73
+4.0,UE Est Centrale,Bulgaria,2010,6404.68
+4.0,UE Est Centrale,Bulgaria,2011,6792.89
+4.0,UE Est Centrale,Bulgaria,2012,7196.91
+4.0,UE Est Centrale,Bulgaria,2013,7596.11
+4.0,UE Est Centrale,Bulgaria,2014,8067.46
+4.0,UE Est Centrale,Bulgaria,2015,8678.29
+4.0,UE Est Centrale,Bulgaria,2016,9378.1
+4.0,UE Est Centrale,Bulgaria,2017,10265.48
+4.0,UE Est Centrale,Bulgaria,2018,10894.19
+4.0,UE Est Centrale,Bulgaria,2019,12186.04
+4.0,UE Est Centrale,Bulgaria,2020,13225.54
+4.0,UE Est Centrale,Bulgaria,2021,14913.36
+4.0,UE Est Centrale,Bulgaria,2022,17138.37
+4.0,UE Est Centrale,Bulgaria,2023,19780.79
+4.0,UE Est Centrale,Bulgaria,2024,22147.8
+4.0,UE Est Centrale,Bulgaria,2025,26476.89232872445
+4.0,UE Est Centrale,Bulgaria,2026,28732.707088432588
+4.0,UE Est Centrale,Bulgaria,2027,30988.52184814072
+4.0,UE Est Centrale,Bulgaria,2028,33250.51692225903
+5.0,UE Est Centrale,Croatia,2013,15874.33
+5.0,UE Est Centrale,Croatia,2014,15940.8
+5.0,UE Est Centrale,Croatia,2015,16593.34
+5.0,UE Est Centrale,Croatia,2016,16887.97
+5.0,UE Est Centrale,Croatia,2017,17577.29
+5.0,UE Est Centrale,Croatia,2018,18336.7
+5.0,UE Est Centrale,Croatia,2019,18856.98
+5.0,UE Est Centrale,Croatia,2020,19631.95
+5.0,UE Est Centrale,Croatia,2021,20765.31
+5.0,UE Est Centrale,Croatia,2022,22449.04
+5.0,UE Est Centrale,Croatia,2023,25202.13
+5.0,UE Est Centrale,Croatia,2024,27619.75
+5.0,UE Est Centrale,Croatia,2025,32158.308736406885
+5.0,UE Est Centrale,Croatia,2026,34486.6684454524
+5.0,UE Est Centrale,Croatia,2027,36815.02815449793
+5.0,UE Est Centrale,Croatia,2028,39149.76693123948
+6.0,UE Meridionale,Cyprus,2005,31183.49
+6.0,UE Meridionale,Cyprus,2006,33315.97
+6.0,UE Meridionale,Cyprus,2007,35144.26
+6.0,UE Meridionale,Cyprus,2014,38192.93
+6.0,UE Meridionale,Cyprus,2017,39062.44
+6.0,UE Meridionale,Cyprus,2018,40053.77
+6.0,UE Meridionale,Cyprus,2019,40565.51
+6.0,UE Meridionale,Cyprus,2020,40113.6
+6.0,UE Meridionale,Cyprus,2021,40918.05
+6.0,UE Meridionale,Cyprus,2022,44012.72
+6.0,UE Meridionale,Cyprus,2023,46953.5
+6.0,UE Meridionale,Cyprus,2024,48460.01
+6.0,UE Meridionale,Cyprus,2025,53999.26398507458
+6.0,UE Meridionale,Cyprus,2026,56545.89004558328
+6.0,UE Meridionale,Cyprus,2027,59092.51610609195
+6.0,UE Meridionale,Cyprus,2028,61646.11922430065
+7.0,UE Est Centrale,Czechia,2000,7007.47
+7.0,UE Est Centrale,Czechia,2001,7921.52
+7.0,UE Est Centrale,Czechia,2002,9353.22
+7.0,UE Est Centrale,Czechia,2003,9443.01
+7.0,UE Est Centrale,Czechia,2004,9998.06
+7.0,UE Est Centrale,Czechia,2005,11174.74
+7.0,UE Est Centrale,Czechia,2006,12789.06
+7.0,UE Est Centrale,Czechia,2007,13924.69
+7.0,UE Est Centrale,Czechia,2008,16691.82
+7.0,UE Est Centrale,Czechia,2009,16480.18
+7.0,UE Est Centrale,Czechia,2010,17665.93
+7.0,UE Est Centrale,Czechia,2011,18563.24
+7.0,UE Est Centrale,Czechia,2012,18622.88
+7.0,UE Est Centrale,Czechia,2013,17947.59
+7.0,UE Est Centrale,Czechia,2014,17389.91
+7.0,UE Est Centrale,Czechia,2015,18034.49
+7.0,UE Est Centrale,Czechia,2016,18893.51
+7.0,UE Est Centrale,Czechia,2017,20526.59
+7.0,UE Est Centrale,Czechia,2018,22512.67
+7.0,UE Est Centrale,Czechia,2019,23985.36
+7.0,UE Est Centrale,Czechia,2020,23948.8
+7.0,UE Est Centrale,Czechia,2021,27939.48
+7.0,UE Est Centrale,Czechia,2022,31406.09
+7.0,UE Est Centrale,Czechia,2023,34531.2
+7.0,UE Est Centrale,Czechia,2024,34581.99
+7.0,UE Est Centrale,Czechia,2025,40415.09422680358
+7.0,UE Est Centrale,Czechia,2026,42848.57839537914
+7.0,UE Est Centrale,Czechia,2027,45282.06256395472
+7.0,UE Est Centrale,Czechia,2028,47722.2138124442
+8.0,UE Scandinava,Denmark,2000,44251.89
+8.0,UE Scandinava,Denmark,2001,46536.7
+8.0,UE Scandinava,Denmark,2002,48879.66
+8.0,UE Scandinava,Denmark,2003,50307.99
+8.0,UE Scandinava,Denmark,2004,52235.22
+8.0,UE Scandinava,Denmark,2005,52880.67
+8.0,UE Scandinava,Denmark,2006,54486.98
+8.0,UE Scandinava,Denmark,2007,56939.15
+8.0,UE Scandinava,Denmark,2008,59191.78
+8.0,UE Scandinava,Denmark,2009,61924.13
+8.0,UE Scandinava,Denmark,2010,64698.32
+8.0,UE Scandinava,Denmark,2011,66306.87
+8.0,UE Scandinava,Denmark,2012,67234.65
+8.0,UE Scandinava,Denmark,2013,67746.88
+8.0,UE Scandinava,Denmark,2014,68660.75
+8.0,UE Scandinava,Denmark,2015,69378.93
+8.0,UE Scandinava,Denmark,2016,70043.3
+8.0,UE Scandinava,Denmark,2017,71117.84
+8.0,UE Scandinava,Denmark,2018,72614.48
+8.0,UE Scandinava,Denmark,2019,74267.19
+8.0,UE Scandinava,Denmark,2020,75757.71
+8.0,UE Scandinava,Denmark,2021,78631.22
+8.0,UE Scandinava,Denmark,2022,81420.09
+8.0,UE Scandinava,Denmark,2023,84715.54
+8.0,UE Scandinava,Denmark,2024,87825.47
+8.0,UE Scandinava,Denmark,2025,92920.32977479519
+8.0,UE Scandinava,Denmark,2026,95691.56881792919
+8.0,UE Scandinava,Denmark,2027,98462.80786106324
+8.0,UE Scandinava,Denmark,2028,101241.63933993186
+9.0,UE Est Centrale,Estonia,2000,6136.29
+9.0,UE Est Centrale,Estonia,2001,6930.86
+9.0,UE Est Centrale,Estonia,2002,7609.63
+9.0,UE Est Centrale,Estonia,2003,8211.38
+9.0,UE Est Centrale,Estonia,2004,8941.75
+9.0,UE Est Centrale,Estonia,2005,10112.45
+9.0,UE Est Centrale,Estonia,2006,12118.24
+9.0,UE Est Centrale,Estonia,2007,14536.68
+9.0,UE Est Centrale,Estonia,2008,16499.95
+9.0,UE Est Centrale,Estonia,2009,15458.9
+9.0,UE Est Centrale,Estonia,2010,15640.39
+9.0,UE Est Centrale,Estonia,2011,16648.51
+9.0,UE Est Centrale,Estonia,2012,17625.3
+9.0,UE Est Centrale,Estonia,2013,18891.39
+9.0,UE Est Centrale,Estonia,2014,19829.89
+9.0,UE Est Centrale,Estonia,2015,21276.83
+9.0,UE Est Centrale,Estonia,2016,22909.41
+9.0,UE Est Centrale,Estonia,2017,24466.88
+9.0,UE Est Centrale,Estonia,2018,26875.39
+9.0,UE Est Centrale,Estonia,2019,28339.21
+9.0,UE Est Centrale,Estonia,2020,28889.24
+9.0,UE Est Centrale,Estonia,2021,30600.88
+9.0,UE Est Centrale,Estonia,2022,32944.19
+9.0,UE Est Centrale,Estonia,2023,36283.96
+9.0,UE Est Centrale,Estonia,2024,38045.17
+9.0,UE Est Centrale,Estonia,2025,41662.26107729253
+9.0,UE Est Centrale,Estonia,2026,43679.20882802645
+9.0,UE Est Centrale,Estonia,2027,45696.15657876039
+9.0,UE Est Centrale,Estonia,2028,47718.6302137429
+38.0,Altro,European Union - 27 countries (from 2020),2013,42564.91
+38.0,Altro,European Union - 27 countries (from 2020),2014,43128.05
+38.0,Altro,European Union - 27 countries (from 2020),2015,43813.5
+38.0,Altro,European Union - 27 countries (from 2020),2016,44375.83
+38.0,Altro,European Union - 27 countries (from 2020),2017,45073.23
+38.0,Altro,European Union - 27 countries (from 2020),2018,46204.88
+38.0,Altro,European Union - 27 countries (from 2020),2019,47560.1
+38.0,Altro,European Union - 27 countries (from 2020),2020,47941.36
+38.0,Altro,European Union - 27 countries (from 2020),2021,50087.68
+38.0,Altro,European Union - 27 countries (from 2020),2022,53163.98
+38.0,Altro,European Union - 27 countries (from 2020),2023,56487.68
+38.0,Altro,European Union - 27 countries (from 2020),2024,59208.66
+38.0,Altro,European Union - 27 countries (from 2020),2025,65475.84712588831
+38.0,Altro,European Union - 27 countries (from 2020),2026,68544.08967719373
+38.0,Altro,European Union - 27 countries (from 2020),2027,71612.33222849914
+38.0,Altro,European Union - 27 countries (from 2020),2028,74688.98092378075
+10.0,UE Scandinava,Finland,2000,34861.02
+10.0,UE Scandinava,Finland,2001,37022.1
+10.0,UE Scandinava,Finland,2002,39170.43
+10.0,UE Scandinava,Finland,2003,40580.03
+10.0,UE Scandinava,Finland,2004,42525.27
+10.0,UE Scandinava,Finland,2005,44249.5
+10.0,UE Scandinava,Finland,2006,46565.74
+10.0,UE Scandinava,Finland,2007,49488.71
+10.0,UE Scandinava,Finland,2008,52052.36
+10.0,UE Scandinava,Finland,2009,54382.94
+10.0,UE Scandinava,Finland,2010,55607.08
+10.0,UE Scandinava,Finland,2011,56843.84
+10.0,UE Scandinava,Finland,2012,58493.83
+10.0,UE Scandinava,Finland,2013,59308.3
+10.0,UE Scandinava,Finland,2014,59282.76
+10.0,UE Scandinava,Finland,2015,59836.58
+10.0,UE Scandinava,Finland,2016,60612.76
+10.0,UE Scandinava,Finland,2017,61611.69
+10.0,UE Scandinava,Finland,2018,62800.43
+10.0,UE Scandinava,Finland,2019,64270.28
+10.0,UE Scandinava,Finland,2020,66383.96
+10.0,UE Scandinava,Finland,2021,67812.29
+10.0,UE Scandinava,Finland,2022,70002.33
+10.0,UE Scandinava,Finland,2023,72532.25
+10.0,UE Scandinava,Finland,2024,73753.23
+10.0,UE Scandinava,Finland,2025,77867.98740302051
+10.0,UE Scandinava,Finland,2026,79810.32596686392
+10.0,UE Scandinava,Finland,2027,81752.66453070733
+10.0,UE Scandinava,Finland,2028,83700.32457006813
+11.0,UE Occidentale,France,2000,37846.79
+11.0,UE Occidentale,France,2001,39020.23
+11.0,UE Occidentale,France,2002,40339.93
+11.0,UE Occidentale,France,2003,41225.69
+11.0,UE Occidentale,France,2004,42263.17
+11.0,UE Occidentale,France,2005,43419.1
+11.0,UE Occidentale,France,2006,45350.34
+11.0,UE Occidentale,France,2007,46830.18
+11.0,UE Occidentale,France,2008,48499.47
+11.0,UE Occidentale,France,2009,49255.81
+11.0,UE Occidentale,France,2010,50063.6
+11.0,UE Occidentale,France,2011,51152.5
+11.0,UE Occidentale,France,2012,51957.83
+11.0,UE Occidentale,France,2013,52538.29
+11.0,UE Occidentale,France,2014,53156.93
+11.0,UE Occidentale,France,2015,53917.5
+11.0,UE Occidentale,France,2016,53761.39
+11.0,UE Occidentale,France,2017,54044.96
+11.0,UE Occidentale,France,2018,55325.88
+11.0,UE Occidentale,France,2019,56307.55
+11.0,UE Occidentale,France,2020,54944.66
+11.0,UE Occidentale,France,2021,57299.66
+11.0,UE Occidentale,France,2022,60482.87
+11.0,UE Occidentale,France,2023,63147.03
+11.0,UE Occidentale,France,2024,64707.26
+11.0,UE Occidentale,France,2025,68139.26228979985
+11.0,UE Occidentale,France,2026,70043.76013963504
+11.0,UE Occidentale,France,2027,71948.25798947022
+11.0,UE Occidentale,France,2028,73857.97364163373
+12.0,UE Occidentale,Germany,2000,39076.76
+12.0,UE Occidentale,Germany,2001,40813.05
+12.0,UE Occidentale,Germany,2002,41743.46
+12.0,UE Occidentale,Germany,2003,42134.43
+12.0,UE Occidentale,Germany,2004,43985.12
+12.0,UE Occidentale,Germany,2005,44726.19
+12.0,UE Occidentale,Germany,2006,45009.7
+12.0,UE Occidentale,Germany,2007,46389.35
+12.0,UE Occidentale,Germany,2008,47683.01
+12.0,UE Occidentale,Germany,2009,47741.3
+12.0,UE Occidentale,Germany,2010,50748.12
+12.0,UE Occidentale,Germany,2011,52176.08
+12.0,UE Occidentale,Germany,2012,53459.23
+12.0,UE Occidentale,Germany,2013,54342.03
+12.0,UE Occidentale,Germany,2014,55582.84
+12.0,UE Occidentale,Germany,2015,56821.41
+12.0,UE Occidentale,Germany,2016,57972.64
+12.0,UE Occidentale,Germany,2017,58937.26
+12.0,UE Occidentale,Germany,2018,60839.74
+12.0,UE Occidentale,Germany,2019,62972.52
+12.0,UE Occidentale,Germany,2020,62588.0
+12.0,UE Occidentale,Germany,2021,65700.4
+12.0,UE Occidentale,Germany,2022,71193.47
+12.0,UE Occidentale,Germany,2023,75816.81
+12.0,UE Occidentale,Germany,2024,79188.27
+12.0,UE Occidentale,Germany,2025,85311.91440391856
+12.0,UE Occidentale,Germany,2026,88777.90382681522
+12.0,UE Occidentale,Germany,2027,92243.89324971188
+12.0,UE Occidentale,Germany,2028,95719.37853404111
+13.0,UE Meridionale,Greece,2000,26080.36
+13.0,UE Meridionale,Greece,2001,26795.34
+13.0,UE Meridionale,Greece,2002,29099.72
+13.0,UE Meridionale,Greece,2003,32000.03
+13.0,UE Meridionale,Greece,2004,34884.29
+13.0,UE Meridionale,Greece,2005,35751.08
+13.0,UE Meridionale,Greece,2006,38077.6
+13.0,UE Meridionale,Greece,2007,38452.64
+13.0,UE Meridionale,Greece,2008,38735.91
+13.0,UE Meridionale,Greece,2009,40132.9
+13.0,UE Meridionale,Greece,2010,40221.11
+13.0,UE Meridionale,Greece,2011,38026.91
+13.0,UE Meridionale,Greece,2012,37097.64
+13.0,UE Meridionale,Greece,2013,33939.78
+13.0,UE Meridionale,Greece,2014,34510.38
+13.0,UE Meridionale,Greece,2015,33887.46
+13.0,UE Meridionale,Greece,2016,32522.74
+13.0,UE Meridionale,Greece,2017,32267.28
+13.0,UE Meridionale,Greece,2018,32237.22
+13.0,UE Meridionale,Greece,2019,32814.69
+13.0,UE Meridionale,Greece,2020,30828.14
+13.0,UE Meridionale,Greece,2021,33434.12
+13.0,UE Meridionale,Greece,2022,36420.66
+13.0,UE Meridionale,Greece,2023,38945.91
+13.0,UE Meridionale,Greece,2024,40456.43
+13.0,UE Meridionale,Greece,2025,43577.792305861665
+13.0,UE Meridionale,Greece,2026,45363.52126439751
+13.0,UE Meridionale,Greece,2027,47149.25022293336
+13.0,UE Meridionale,Greece,2028,48939.87158957479
+14.0,UE Est Centrale,Hungary,2000,5369.68
+14.0,UE Est Centrale,Hungary,2001,6048.69
+14.0,UE Est Centrale,Hungary,2002,7447.42
+14.0,UE Est Centrale,Hungary,2003,8225.01
+14.0,UE Est Centrale,Hungary,2004,8837.38
+14.0,UE Est Centrale,Hungary,2005,9714.45
+14.0,UE Est Centrale,Hungary,2006,9730.67
+14.0,UE Est Centrale,Hungary,2007,10498.56
+14.0,UE Est Centrale,Hungary,2008,11469.18
+14.0,UE Est Centrale,Hungary,2009,10818.79
+14.0,UE Est Centrale,Hungary,2010,12513.14
+14.0,UE Est Centrale,Hungary,2011,12292.64
+14.0,UE Est Centrale,Hungary,2012,12738.44
+14.0,UE Est Centrale,Hungary,2013,12950.16
+14.0,UE Est Centrale,Hungary,2014,12956.84
+14.0,UE Est Centrale,Hungary,2015,13407.13
+14.0,UE Est Centrale,Hungary,2016,14277.45
+14.0,UE Est Centrale,Hungary,2017,16047.44
+14.0,UE Est Centrale,Hungary,2018,17173.88
+14.0,UE Est Centrale,Hungary,2019,18781.08
+14.0,UE Est Centrale,Hungary,2020,19098.43
+14.0,UE Est Centrale,Hungary,2021,20149.92
+14.0,UE Est Centrale,Hungary,2022,21334.9
+14.0,UE Est Centrale,Hungary,2023,25439.49
+14.0,UE Est Centrale,Hungary,2024,27766.08
+14.0,UE Est Centrale,Hungary,2025,30087.305113469574
+14.0,UE Est Centrale,Hungary,2026,31846.298553734436
+14.0,UE Est Centrale,Hungary,2027,33605.291993999315
+14.0,UE Est Centrale,Hungary,2028,35369.104594374505
+15.0,Altro,Iceland,2000,55720.65
+15.0,Altro,Iceland,2001,50626.77
+15.0,Altro,Iceland,2002,53083.18
+15.0,Altro,Iceland,2003,56153.61
+15.0,Altro,Iceland,2004,59464.89
+15.0,Altro,Iceland,2005,76038.09
+15.0,Altro,Iceland,2006,75612.67
+15.0,Altro,Iceland,2007,84767.22
+15.0,Altro,Iceland,2008,55113.54
+15.0,Altro,Iceland,2009,43367.41
+15.0,Altro,Iceland,2010,47012.26
+15.0,Altro,Iceland,2011,49942.47
+15.0,Altro,Iceland,2012,54317.73
+15.0,Altro,Iceland,2013,58197.41
+15.0,Altro,Iceland,2014,65882.16
+15.0,Altro,Iceland,2015,74054.73
+15.0,Altro,Iceland,2016,88085.92
+15.0,Altro,Iceland,2017,100912.15
+15.0,Altro,Iceland,2018,97588.57
+15.0,Altro,Iceland,2019,94508.74
+15.0,Altro,Iceland,2020,88371.67
+15.0,Altro,Iceland,2021,94749.63
+15.0,Altro,Iceland,2022,106003.71
+15.0,Altro,Iceland,2023,109078.67
+15.0,Altro,Iceland,2024,115146.18
+15.0,Altro,Iceland,2025,118351.685892815
+15.0,Altro,Iceland,2026,121682.1421314643
+15.0,Altro,Iceland,2027,125012.59837011363
+15.0,Altro,Iceland,2028,128352.17914640305
+16.0,UE Occidentale,Ireland,2000,41911.19
+16.0,UE Occidentale,Ireland,2001,48452.89
+16.0,UE Occidentale,Ireland,2002,51503.24
+16.0,UE Occidentale,Ireland,2003,53771.97
+16.0,UE Occidentale,Ireland,2004,56188.75
+16.0,UE Occidentale,Ireland,2005,58751.57
+16.0,UE Occidentale,Ireland,2006,61758.66
+16.0,UE Occidentale,Ireland,2007,65292.35
+16.0,UE Occidentale,Ireland,2008,68066.41
+16.0,UE Occidentale,Ireland,2009,64882.11
+16.0,UE Occidentale,Ireland,2010,64277.38
+16.0,UE Occidentale,Ireland,2011,62318.45
+16.0,UE Occidentale,Ireland,2012,63083.47
+16.0,UE Occidentale,Ireland,2013,63062.56
+16.0,UE Occidentale,Ireland,2014,63374.77
+16.0,UE Occidentale,Ireland,2015,64689.03
+16.0,UE Occidentale,Ireland,2016,66693.9
+16.0,UE Occidentale,Ireland,2017,67953.16
+16.0,UE Occidentale,Ireland,2018,70253.04
+16.0,UE Occidentale,Ireland,2019,76504.41
+16.0,UE Occidentale,Ireland,2020,77685.42
+16.0,UE Occidentale,Ireland,2021,79860.63
+16.0,UE Occidentale,Ireland,2022,82125.82
+16.0,UE Occidentale,Ireland,2023,87793.63
+16.0,UE Occidentale,Ireland,2024,92415.59
+16.0,UE Occidentale,Ireland,2025,97520.8669561658
+16.0,UE Occidentale,Ireland,2026,100829.96675338947
+16.0,UE Occidentale,Ireland,2027,104139.06655061315
+16.0,UE Occidentale,Ireland,2028,107457.23237467851
+17.0,UE Meridionale,Italy,2000,30581.6
+17.0,UE Meridionale,Italy,2001,31732.3
+17.0,UE Meridionale,Italy,2002,32208.21
+17.0,UE Meridionale,Italy,2003,33235.7
+17.0,UE Meridionale,Italy,2004,33917.43
+17.0,UE Meridionale,Italy,2005,35203.24
+17.0,UE Meridionale,Italy,2006,35969.11
+17.0,UE Meridionale,Italy,2007,36545.18
+17.0,UE Meridionale,Italy,2008,37835.62
+17.0,UE Meridionale,Italy,2009,38539.11
+17.0,UE Meridionale,Italy,2010,39410.35
+17.0,UE Meridionale,Italy,2011,39967.25
+17.0,UE Meridionale,Italy,2012,40655.36
+17.0,UE Meridionale,Italy,2013,41313.2
+17.0,UE Meridionale,Italy,2014,41861.22
+17.0,UE Meridionale,Italy,2015,42103.24
+17.0,UE Meridionale,Italy,2016,42185.5
+17.0,UE Meridionale,Italy,2017,42277.3
+17.0,UE Meridionale,Italy,2018,42589.63
+17.0,UE Meridionale,Italy,2019,43000.36
+17.0,UE Meridionale,Italy,2020,45015.38
+17.0,UE Meridionale,Italy,2021,47023.29
+17.0,UE Meridionale,Italy,2022,47678.57
+17.0,UE Meridionale,Italy,2023,49185.02
+17.0,UE Meridionale,Italy,2024,49594.05
+17.0,UE Meridionale,Italy,2025,52828.98349653973
+17.0,UE Meridionale,Italy,2026,54142.68895842681
+17.0,UE Meridionale,Italy,2027,55456.39442031388
+17.0,UE Meridionale,Italy,2028,56773.69907524721
+19.0,UE Est Centrale,Latvia,2000,3340.62
+19.0,UE Est Centrale,Latvia,2001,3569.94
+19.0,UE Est Centrale,Latvia,2002,3782.88
+19.0,UE Est Centrale,Latvia,2003,4192.38
+19.0,UE Est Centrale,Latvia,2004,4667.4
+19.0,UE Est Centrale,Latvia,2005,5404.5
+19.0,UE Est Centrale,Latvia,2006,6743.29
+19.0,UE Est Centrale,Latvia,2007,8862.56
+19.0,UE Est Centrale,Latvia,2008,10887.72
+19.0,UE Est Centrale,Latvia,2009,10849.97
+19.0,UE Est Centrale,Latvia,2010,10137.21
+19.0,UE Est Centrale,Latvia,2011,10572.9
+19.0,UE Est Centrale,Latvia,2012,10925.34
+19.0,UE Est Centrale,Latvia,2013,11553.76
+19.0,UE Est Centrale,Latvia,2014,12528.68
+19.0,UE Est Centrale,Latvia,2015,13629.14
+19.0,UE Est Centrale,Latvia,2016,14424.46
+19.0,UE Est Centrale,Latvia,2017,15545.17
+19.0,UE Est Centrale,Latvia,2018,16949.64
+19.0,UE Est Centrale,Latvia,2019,18288.1
+19.0,UE Est Centrale,Latvia,2020,19573.69
+19.0,UE Est Centrale,Latvia,2021,22458.99
+19.0,UE Est Centrale,Latvia,2022,24294.92
+19.0,UE Est Centrale,Latvia,2023,26836.0
+19.0,UE Est Centrale,Latvia,2024,29100.43
+19.0,UE Est Centrale,Latvia,2025,33360.180077516154
+19.0,UE Est Centrale,Latvia,2026,35564.45545355267
+19.0,UE Est Centrale,Latvia,2027,37768.73082958919
+19.0,UE Est Centrale,Latvia,2028,39979.04531624498
+20.0,UE Est Centrale,Lithuania,2000,4540.8
+20.0,UE Est Centrale,Lithuania,2001,4686.09
+20.0,UE Est Centrale,Lithuania,2002,5020.77
+20.0,UE Est Centrale,Lithuania,2003,5388.68
+20.0,UE Est Centrale,Lithuania,2004,5743.68
+20.0,UE Est Centrale,Lithuania,2005,6274.39
+20.0,UE Est Centrale,Lithuania,2006,7503.45
+20.0,UE Est Centrale,Lithuania,2007,9428.24
+20.0,UE Est Centrale,Lithuania,2008,11334.64
+20.0,UE Est Centrale,Lithuania,2009,10722.95
+20.0,UE Est Centrale,Lithuania,2010,10490.05
+20.0,UE Est Centrale,Lithuania,2011,10802.6
+20.0,UE Est Centrale,Lithuania,2012,11271.45
+20.0,UE Est Centrale,Lithuania,2013,11909.78
+20.0,UE Est Centrale,Lithuania,2014,12568.94
+20.0,UE Est Centrale,Lithuania,2015,13303.69
+20.0,UE Est Centrale,Lithuania,2016,14434.49
+20.0,UE Est Centrale,Lithuania,2017,15795.37
+20.0,UE Est Centrale,Lithuania,2018,17381.31
+20.0,UE Est Centrale,Lithuania,2019,19589.85
+20.0,UE Est Centrale,Lithuania,2020,21575.13
+20.0,UE Est Centrale,Lithuania,2021,23596.42
+20.0,UE Est Centrale,Lithuania,2022,26595.28
+20.0,UE Est Centrale,Lithuania,2023,29566.83
+20.0,UE Est Centrale,Lithuania,2024,31818.13
+20.0,UE Est Centrale,Lithuania,2025,36769.959354807754
+20.0,UE Est Centrale,Lithuania,2026,39283.44041085518
+20.0,UE Est Centrale,Lithuania,2027,41796.921466902604
+20.0,UE Est Centrale,Lithuania,2028,44317.28877241866
+21.0,UE Occidentale,Luxembourg,2000,52946.04
+21.0,UE Occidentale,Luxembourg,2001,56710.49
+21.0,UE Occidentale,Luxembourg,2002,59949.86
+21.0,UE Occidentale,Luxembourg,2003,61303.45
+21.0,UE Occidentale,Luxembourg,2004,62445.53
+21.0,UE Occidentale,Luxembourg,2005,64054.16
+21.0,UE Occidentale,Luxembourg,2006,65691.55
+21.0,UE Occidentale,Luxembourg,2007,67207.88
+21.0,UE Occidentale,Luxembourg,2008,70045.88
+21.0,UE Occidentale,Luxembourg,2009,72785.76
+21.0,UE Occidentale,Luxembourg,2010,74086.92
+21.0,UE Occidentale,Luxembourg,2011,74373.52
+21.0,UE Occidentale,Luxembourg,2012,76533.88
+21.0,UE Occidentale,Luxembourg,2013,77441.02
+21.0,UE Occidentale,Luxembourg,2014,78743.95
+21.0,UE Occidentale,Luxembourg,2015,79139.42
+21.0,UE Occidentale,Luxembourg,2016,79728.45
+21.0,UE Occidentale,Luxembourg,2017,84537.77
+21.0,UE Occidentale,Luxembourg,2018,86004.82
+21.0,UE Occidentale,Luxembourg,2019,87158.53
+21.0,UE Occidentale,Luxembourg,2020,90605.62
+21.0,UE Occidentale,Luxembourg,2021,91747.49
+21.0,UE Occidentale,Luxembourg,2022,95626.76
+21.0,UE Occidentale,Luxembourg,2023,99472.84
+21.0,UE Occidentale,Luxembourg,2024,102697.06
+21.0,UE Occidentale,Luxembourg,2025,108388.4259191144
+21.0,UE Occidentale,Luxembourg,2026,111458.77670290094
+21.0,UE Occidentale,Luxembourg,2027,114529.12748668749
+21.0,UE Occidentale,Luxembourg,2028,117607.89019042962
+22.0,UE Meridionale,Malta,2005,23249.01
+22.0,UE Meridionale,Malta,2006,23900.3
+22.0,UE Meridionale,Malta,2007,25028.41
+22.0,UE Meridionale,Malta,2008,27085.74
+22.0,UE Meridionale,Malta,2009,27767.68
+22.0,UE Meridionale,Malta,2010,28947.86
+22.0,UE Meridionale,Malta,2011,31285.94
+22.0,UE Meridionale,Malta,2012,31999.9
+22.0,UE Meridionale,Malta,2013,32612.0
+22.0,UE Meridionale,Malta,2014,32020.0
+22.0,UE Meridionale,Malta,2015,32675.9
+22.0,UE Meridionale,Malta,2016,33852.4
+22.0,UE Meridionale,Malta,2017,34610.3
+22.0,UE Meridionale,Malta,2018,35780.3
+22.0,UE Meridionale,Malta,2019,38214.38
+22.0,UE Meridionale,Malta,2020,39305.8
+22.0,UE Meridionale,Malta,2021,36585.0
+22.0,UE Meridionale,Malta,2022,39569.62
+22.0,UE Meridionale,Malta,2023,41110.1
+22.0,UE Meridionale,Malta,2024,45718.08
+22.0,UE Meridionale,Malta,2025,46477.79354629022
+22.0,UE Meridionale,Malta,2026,47934.47906896124
+22.0,UE Meridionale,Malta,2027,49391.16459163226
+22.0,UE Meridionale,Malta,2028,50851.841033543475
+24.0,UE Occidentale,Netherlands,2000,42352.3
+24.0,UE Occidentale,Netherlands,2001,47033.32
+24.0,UE Occidentale,Netherlands,2002,48824.79
+24.0,UE Occidentale,Netherlands,2003,50414.55
+24.0,UE Occidentale,Netherlands,2004,51125.79
+24.0,UE Occidentale,Netherlands,2005,52236.28
+24.0,UE Occidentale,Netherlands,2006,55086.07
+24.0,UE Occidentale,Netherlands,2007,56723.46
+24.0,UE Occidentale,Netherlands,2008,57953.68
+24.0,UE Occidentale,Netherlands,2009,60583.38
+24.0,UE Occidentale,Netherlands,2010,61802.82
+24.0,UE Occidentale,Netherlands,2011,63224.41
+24.0,UE Occidentale,Netherlands,2012,63465.42
+24.0,UE Occidentale,Netherlands,2013,65984.34
+24.0,UE Occidentale,Netherlands,2014,67447.7
+24.0,UE Occidentale,Netherlands,2015,69103.01
+24.0,UE Occidentale,Netherlands,2016,69951.4
+24.0,UE Occidentale,Netherlands,2017,70852.76
+24.0,UE Occidentale,Netherlands,2018,71676.36
+24.0,UE Occidentale,Netherlands,2019,74804.48
+24.0,UE Occidentale,Netherlands,2020,78285.74
+24.0,UE Occidentale,Netherlands,2021,81321.23
+24.0,UE Occidentale,Netherlands,2022,84623.01
+24.0,UE Occidentale,Netherlands,2023,90312.75
+24.0,UE Occidentale,Netherlands,2024,95784.96
+24.0,UE Occidentale,Netherlands,2025,102694.7677705033
+24.0,UE Occidentale,Netherlands,2026,106806.31404751154
+24.0,UE Occidentale,Netherlands,2027,110917.86032451979
+24.0,UE Occidentale,Netherlands,2028,115040.67111187597
+26.0,Altro,Norway,2000,50977.63
+26.0,Altro,Norway,2001,55682.24
+26.0,Altro,Norway,2002,63413.81
+26.0,Altro,Norway,2003,61683.72
+26.0,Altro,Norway,2004,61169.73
+26.0,Altro,Norway,2005,67083.78
+26.0,Altro,Norway,2006,70097.99
+26.0,Altro,Norway,2007,73989.94
+26.0,Altro,Norway,2008,75954.22
+26.0,Altro,Norway,2009,73934.35
+26.0,Altro,Norway,2010,83368.94
+26.0,Altro,Norway,2011,88980.36
+26.0,Altro,Norway,2012,95566.16
+26.0,Altro,Norway,2013,95191.98
+26.0,Altro,Norway,2014,91807.93
+26.0,Altro,Norway,2015,88902.92
+26.0,Altro,Norway,2016,87324.18
+26.0,Altro,Norway,2017,88887.78
+26.0,Altro,Norway,2018,89385.78
+26.0,Altro,Norway,2019,90438.31
+26.0,Altro,Norway,2020,85069.78
+26.0,Altro,Norway,2021,93870.78
+26.0,Altro,Norway,2022,98418.09
+26.0,Altro,Norway,2023,91590.19
+26.0,Altro,Norway,2024,94463.74
+26.0,Altro,Norway,2025,97278.88861485376
+26.0,Altro,Norway,2026,98377.39534731036
+26.0,Altro,Norway,2027,99475.902079767
+26.0,Altro,Norway,2028,100577.4184197098
+27.0,UE Est Centrale,Poland,2000,8307.5
+27.0,UE Est Centrale,Poland,2001,9764.46
+27.0,UE Est Centrale,Poland,2002,9501.1
+27.0,UE Est Centrale,Poland,2003,8676.11
+27.0,UE Est Centrale,Poland,2004,8578.45
+27.0,UE Est Centrale,Poland,2005,9930.24
+27.0,UE Est Centrale,Poland,2006,10712.38
+27.0,UE Est Centrale,Poland,2007,12326.4
+27.0,UE Est Centrale,Poland,2008,14390.07
+27.0,UE Est Centrale,Poland,2009,12187.89
+27.0,UE Est Centrale,Poland,2010,13792.45
+27.0,UE Est Centrale,Poland,2011,14171.5
+27.0,UE Est Centrale,Poland,2012,14471.01
+27.0,UE Est Centrale,Poland,2013,14932.46
+27.0,UE Est Centrale,Poland,2014,15982.33
+27.0,UE Est Centrale,Poland,2015,16551.98
+27.0,UE Est Centrale,Poland,2016,16400.85
+27.0,UE Est Centrale,Poland,2017,17951.13
+27.0,UE Est Centrale,Poland,2018,19237.19
+27.0,UE Est Centrale,Poland,2019,20451.55
+27.0,UE Est Centrale,Poland,2020,22752.71
+27.0,UE Est Centrale,Poland,2021,22269.13
+27.0,UE Est Centrale,Poland,2022,25007.44
+27.0,UE Est Centrale,Poland,2023,28974.35
+27.0,UE Est Centrale,Poland,2024,34004.72
+27.0,UE Est Centrale,Poland,2025,36516.98233286723
+27.0,UE Est Centrale,Poland,2026,38932.47761836159
+27.0,UE Est Centrale,Poland,2027,41347.97290385597
+27.0,UE Est Centrale,Poland,2028,43770.08598465306
+28.0,UE Meridionale,Portugal,2000,17265.74
+28.0,UE Meridionale,Portugal,2001,18285.04
+28.0,UE Meridionale,Portugal,2002,18928.9
+28.0,UE Meridionale,Portugal,2003,19614.98
+28.0,UE Meridionale,Portugal,2004,20244.06
+28.0,UE Meridionale,Portugal,2005,21098.17
+28.0,UE Meridionale,Portugal,2006,21688.36
+28.0,UE Meridionale,Portugal,2007,22725.92
+28.0,UE Meridionale,Portugal,2008,23430.44
+28.0,UE Meridionale,Portugal,2009,24012.88
+28.0,UE Meridionale,Portugal,2010,24379.75
+28.0,UE Meridionale,Portugal,2011,24016.32
+28.0,UE Meridionale,Portugal,2012,24506.02
+28.0,UE Meridionale,Portugal,2013,23458.61
+28.0,UE Meridionale,Portugal,2014,23327.54
+28.0,UE Meridionale,Portugal,2015,23071.75
+28.0,UE Meridionale,Portugal,2016,23408.47
+28.0,UE Meridionale,Portugal,2017,23876.6
+28.0,UE Meridionale,Portugal,2018,24803.5
+28.0,UE Meridionale,Portugal,2019,25646.8
+28.0,UE Meridionale,Portugal,2020,25869.57
+28.0,UE Meridionale,Portugal,2021,27005.08
+28.0,UE Meridionale,Portugal,2022,28427.11
+28.0,UE Meridionale,Portugal,2023,30602.18
+28.0,UE Meridionale,Portugal,2024,33893.83
+28.0,UE Meridionale,Portugal,2025,35654.98918964052
+28.0,UE Meridionale,Portugal,2026,37216.786152188855
+28.0,UE Meridionale,Portugal,2027,38778.5831147372
+28.0,UE Meridionale,Portugal,2028,40344.65897307335
+29.0,UE Est Centrale,Romania,2008,7915.57
+29.0,UE Est Centrale,Romania,2009,7150.16
+29.0,UE Est Centrale,Romania,2010,7744.87
+29.0,UE Est Centrale,Romania,2011,8162.78
+29.0,UE Est Centrale,Romania,2012,8001.46
+29.0,UE Est Centrale,Romania,2013,8681.28
+29.0,UE Est Centrale,Romania,2014,9220.5
+29.0,UE Est Centrale,Romania,2015,10235.64
+29.0,UE Est Centrale,Romania,2016,11037.86
+29.0,UE Est Centrale,Romania,2017,12099.93
+29.0,UE Est Centrale,Romania,2018,13339.18
+29.0,UE Est Centrale,Romania,2019,14460.74
+29.0,UE Est Centrale,Romania,2020,15259.25
+29.0,UE Est Centrale,Romania,2021,16139.64
+29.0,UE Est Centrale,Romania,2022,18167.96
+29.0,UE Est Centrale,Romania,2023,21050.15
+29.0,UE Est Centrale,Romania,2024,25309.05
+29.0,UE Est Centrale,Romania,2025,28575.191014513355
+29.0,UE Est Centrale,Romania,2026,30885.70851819694
+29.0,UE Est Centrale,Romania,2027,33196.22602188053
+29.0,UE Est Centrale,Romania,2028,35513.07371050571
+31.0,UE Est Centrale,Slovakia,2000,8393.29
+31.0,UE Est Centrale,Slovakia,2001,8667.98
+31.0,UE Est Centrale,Slovakia,2002,9099.95
+31.0,UE Est Centrale,Slovakia,2003,9609.53
+31.0,UE Est Centrale,Slovakia,2004,10495.29
+31.0,UE Est Centrale,Slovakia,2005,11289.02
+31.0,UE Est Centrale,Slovakia,2006,12037.97
+31.0,UE Est Centrale,Slovakia,2007,12816.8
+31.0,UE Est Centrale,Slovakia,2008,14046.3
+31.0,UE Est Centrale,Slovakia,2009,14529.05
+31.0,UE Est Centrale,Slovakia,2010,14987.38
+31.0,UE Est Centrale,Slovakia,2011,15285.5
+31.0,UE Est Centrale,Slovakia,2012,15594.54
+31.0,UE Est Centrale,Slovakia,2013,15873.17
+31.0,UE Est Centrale,Slovakia,2014,16500.65
+31.0,UE Est Centrale,Slovakia,2015,16853.5
+31.0,UE Est Centrale,Slovakia,2016,17308.68
+31.0,UE Est Centrale,Slovakia,2017,17922.07
+31.0,UE Est Centrale,Slovakia,2018,18929.22
+31.0,UE Est Centrale,Slovakia,2019,19950.04
+31.0,UE Est Centrale,Slovakia,2020,20501.68
+31.0,UE Est Centrale,Slovakia,2021,21965.0
+31.0,UE Est Centrale,Slovakia,2022,23693.7
+31.0,UE Est Centrale,Slovakia,2023,26055.12
+31.0,UE Est Centrale,Slovakia,2024,28139.72
+31.0,UE Est Centrale,Slovakia,2025,30890.677630594597
+31.0,UE Est Centrale,Slovakia,2026,32551.77292494651
+31.0,UE Est Centrale,Slovakia,2027,34212.86821929841
+31.0,UE Est Centrale,Slovakia,2028,35878.514459662256
+32.0,UE Est Centrale,Slovenia,2000,11463.45
+32.0,UE Est Centrale,Slovenia,2001,12744.29
+32.0,UE Est Centrale,Slovenia,2002,13896.55
+32.0,UE Est Centrale,Slovenia,2003,15034.39
+32.0,UE Est Centrale,Slovenia,2004,16022.09
+32.0,UE Est Centrale,Slovenia,2005,16949.44
+32.0,UE Est Centrale,Slovenia,2006,17831.99
+32.0,UE Est Centrale,Slovenia,2007,19641.77
+32.0,UE Est Centrale,Slovenia,2008,21113.85
+32.0,UE Est Centrale,Slovenia,2009,21565.36
+32.0,UE Est Centrale,Slovenia,2010,22568.26
+32.0,UE Est Centrale,Slovenia,2011,23135.69
+32.0,UE Est Centrale,Slovenia,2012,23414.95
+32.0,UE Est Centrale,Slovenia,2013,23648.36
+32.0,UE Est Centrale,Slovenia,2014,23961.13
+32.0,UE Est Centrale,Slovenia,2015,24124.91
+32.0,UE Est Centrale,Slovenia,2016,24404.69
+32.0,UE Est Centrale,Slovenia,2017,24974.5
+32.0,UE Est Centrale,Slovenia,2018,25804.76
+32.0,UE Est Centrale,Slovenia,2019,26596.35
+32.0,UE Est Centrale,Slovenia,2020,27793.58
+32.0,UE Est Centrale,Slovenia,2021,29202.45
+32.0,UE Est Centrale,Slovenia,2022,31336.8
+32.0,UE Est Centrale,Slovenia,2023,34227.77
+32.0,UE Est Centrale,Slovenia,2024,35729.5
+32.0,UE Est Centrale,Slovenia,2025,39346.68897235332
+32.0,UE Est Centrale,Slovenia,2026,41236.830283938085
+32.0,UE Est Centrale,Slovenia,2027,43126.97159552286
+32.0,UE Est Centrale,Slovenia,2028,45022.29137645444
+33.0,UE Meridionale,Spain,2000,27763.21
+33.0,UE Meridionale,Spain,2001,28617.64
+33.0,UE Meridionale,Spain,2002,29587.71
+33.0,UE Meridionale,Spain,2003,31097.75
+33.0,UE Meridionale,Spain,2004,32038.18
+33.0,UE Meridionale,Spain,2005,32865.29
+33.0,UE Meridionale,Spain,2006,33665.05
+33.0,UE Meridionale,Spain,2007,34922.66
+33.0,UE Meridionale,Spain,2008,37530.74
+33.0,UE Meridionale,Spain,2009,38760.99
+33.0,UE Meridionale,Spain,2010,38799.44
+33.0,UE Meridionale,Spain,2011,39783.14
+33.0,UE Meridionale,Spain,2012,39950.13
+33.0,UE Meridionale,Spain,2013,40123.79
+33.0,UE Meridionale,Spain,2014,40338.94
+33.0,UE Meridionale,Spain,2015,41689.77
+33.0,UE Meridionale,Spain,2016,41655.04
+33.0,UE Meridionale,Spain,2017,41897.3
+33.0,UE Meridionale,Spain,2018,42396.84
+33.0,UE Meridionale,Spain,2019,42963.68
+33.0,UE Meridionale,Spain,2020,41265.65
+33.0,UE Meridionale,Spain,2021,43337.03
+33.0,UE Meridionale,Spain,2022,45155.2
+33.0,UE Meridionale,Spain,2023,47194.15
+33.0,UE Meridionale,Spain,2024,49141.75
+33.0,UE Meridionale,Spain,2025,50938.12632641445
+33.0,UE Meridionale,Spain,2026,52268.269342337844
+33.0,UE Meridionale,Spain,2027,53598.41235826125
+33.0,UE Meridionale,Spain,2028,54932.19960162552
+34.0,UE Scandinava,Sweden,2000,41369.3
+34.0,UE Scandinava,Sweden,2001,40643.32
+34.0,UE Scandinava,Sweden,2002,43401.12
+34.0,UE Scandinava,Sweden,2003,44278.73
+34.0,UE Scandinava,Sweden,2004,45869.38
+34.0,UE Scandinava,Sweden,2005,46776.84
+34.0,UE Scandinava,Sweden,2006,48487.64
+34.0,UE Scandinava,Sweden,2007,52728.08
+34.0,UE Scandinava,Sweden,2008,53579.54
+34.0,UE Scandinava,Sweden,2009,50903.94
+34.0,UE Scandinava,Sweden,2010,58087.93
+34.0,UE Scandinava,Sweden,2011,62639.26
+34.0,UE Scandinava,Sweden,2012,66946.84
+34.0,UE Scandinava,Sweden,2013,68946.89
+34.0,UE Scandinava,Sweden,2014,67846.57
+34.0,UE Scandinava,Sweden,2015,66779.71
+34.0,UE Scandinava,Sweden,2016,67423.88
+34.0,UE Scandinava,Sweden,2017,67846.1
+34.0,UE Scandinava,Sweden,2018,65376.72
+34.0,UE Scandinava,Sweden,2019,64855.18
+34.0,UE Scandinava,Sweden,2020,66733.37
+34.0,UE Scandinava,Sweden,2021,70971.47
+34.0,UE Scandinava,Sweden,2022,70377.44
+34.0,UE Scandinava,Sweden,2023,68414.12
+34.0,UE Scandinava,Sweden,2024,72294.06
+34.0,UE Scandinava,Sweden,2025,74131.04335955407
+34.0,UE Scandinava,Sweden,2026,75287.2903932922
+34.0,UE Scandinava,Sweden,2027,76443.53742703036
+34.0,UE Scandinava,Sweden,2028,77602.95226086094
+35.0,Altro,Switzerland,2000,75146.25
+35.0,Altro,Switzerland,2001,79469.08
+35.0,Altro,Switzerland,2002,83539.94
+35.0,Altro,Switzerland,2003,81897.17
+35.0,Altro,Switzerland,2004,82032.12
+35.0,Altro,Switzerland,2005,82648.62
+35.0,Altro,Switzerland,2006,82755.55
+35.0,Altro,Switzerland,2007,81467.52
+35.0,Altro,Switzerland,2008,85039.51
+35.0,Altro,Switzerland,2009,90037.91
+35.0,Altro,Switzerland,2010,99787.73
+35.0,Altro,Switzerland,2011,112724.73
+35.0,Altro,Switzerland,2012,120262.78
+35.0,Altro,Switzerland,2013,118967.4
+35.0,Altro,Switzerland,2014,116383.62
+35.0,Altro,Switzerland,2015,132024.19
+35.0,Altro,Switzerland,2016,132728.8
+35.0,Altro,Switzerland,2017,130618.17
+35.0,Altro,Switzerland,2018,127023.92
+35.0,Altro,Switzerland,2019,133867.59
+35.0,Altro,Switzerland,2020,141110.42
+35.0,Altro,Switzerland,2021,144261.73
+35.0,Altro,Switzerland,2022,153585.59
+35.0,Altro,Switzerland,2023,160691.66
+35.0,Altro,Switzerland,2024,167666.42
+35.0,Altro,Switzerland,2025,180634.75768402763
+35.0,Altro,Switzerland,2026,187397.35681159055
+35.0,Altro,Switzerland,2027,194159.95593915347
+35.0,Altro,Switzerland,2028,200941.082735559
+36.0,Altro,Türkiye,2000,13749861544.89
+36.0,Altro,Türkiye,2001,9715676516.69
+36.0,Altro,Türkiye,2002,10252619162.33
+36.0,Altro,Türkiye,2003,10516659437.13
+36.0,Altro,Türkiye,2004,10973.21
+36.0,Altro,Türkiye,2005,13042.44
+36.0,Altro,Türkiye,2006,12045.03
+36.0,Altro,Türkiye,2007,10512.65
+36.0,Altro,Türkiye,2008,11528.45
+36.0,Altro,Türkiye,2009,11189.64
+36.0,Altro,Türkiye,2010,13258.01
+36.0,Altro,Türkiye,2011,12369.08
+36.0,Altro,Türkiye,2012,13913.52
+36.0,Altro,Türkiye,2013,14214.95
+36.0,Altro,Türkiye,2014,13759.8
+36.0,Altro,Türkiye,2015,14975.7
+36.0,Altro,Türkiye,2016,16216.78
+36.0,Altro,Türkiye,2017,14429.81
+36.0,Altro,Türkiye,2018,12254.46
+36.0,Altro,Türkiye,2019,13808.08
+36.0,Altro,Türkiye,2020,12890.31
+36.0,Altro,Türkiye,2021,11691.51
+36.0,Altro,Türkiye,2022,12571.53
+36.0,Altro,Türkiye,2023,17536.59
+36.0,Altro,Türkiye,2024,22879.6
+36.0,Altro,Türkiye,2025,-73468009.6269035
+36.0,Altro,Türkiye,2026,-78269842.18969202
+36.0,Altro,Türkiye,2027,-83071674.75248055
+36.0,Altro,Türkiye,2028,-87886663.02092053
+,Altro,United Kingdom,2000,60645.47
+,Altro,United Kingdom,2001,62015.98
+,Altro,United Kingdom,2002,63490.67
+,Altro,United Kingdom,2003,59342.79
+,Altro,United Kingdom,2004,63204.82
+,Altro,United Kingdom,2005,64899.56
+,Altro,United Kingdom,2006,67391.11
+,Altro,United Kingdom,2007,70853.14
+,Altro,United Kingdom,2008,62393.08
+,Altro,United Kingdom,2009,56039.67
+,Altro,United Kingdom,2010,59658.16
+,Altro,United Kingdom,2011,58852.47
+,Altro,United Kingdom,2012,64723.37
+,Altro,United Kingdom,2013,62827.5
+,Altro,United Kingdom,2014,66581.45
+,Altro,United Kingdom,2015,75918.22
+,Altro,United Kingdom,2016,69303.85
+,Altro,United Kingdom,2017,67240.72
+,Altro,United Kingdom,2018,68557.06
+,Altro,United Kingdom,2019,71565.54
+,Altro,United Kingdom,2020,69186.55162969687
+,Altro,United Kingdom,2021,68988.82921131102
+,Altro,United Kingdom,2022,68791.10679292517
+,Altro,United Kingdom,2023,68593.38437453934

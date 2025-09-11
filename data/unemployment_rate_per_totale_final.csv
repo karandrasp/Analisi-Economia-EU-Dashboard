@@ -1,0 +1,533 @@
+ID,Regione,Geopolitical entity (reporting),Sesso,TIME_PERIOD,OBS_VALUE
+1.0,UE Occidentale,Austria,Total,2009,5.7
+1.0,UE Occidentale,Austria,Total,2010,5.2
+1.0,UE Occidentale,Austria,Total,2011,4.9
+1.0,UE Occidentale,Austria,Total,2012,5.2
+1.0,UE Occidentale,Austria,Total,2013,5.7
+1.0,UE Occidentale,Austria,Total,2014,6.0
+1.0,UE Occidentale,Austria,Total,2015,6.1
+1.0,UE Occidentale,Austria,Total,2016,6.5
+1.0,UE Occidentale,Austria,Total,2017,5.9
+1.0,UE Occidentale,Austria,Total,2018,5.2
+1.0,UE Occidentale,Austria,Total,2019,4.8
+1.0,UE Occidentale,Austria,Total,2020,6.0
+1.0,UE Occidentale,Austria,Total,2021,6.2
+1.0,UE Occidentale,Austria,Total,2022,4.8
+1.0,UE Occidentale,Austria,Total,2023,5.1
+1.0,UE Occidentale,Austria,Total,2024,5.2
+2.0,UE Occidentale,Belgium,Total,2009,8.0
+2.0,UE Occidentale,Belgium,Total,2010,8.4
+2.0,UE Occidentale,Belgium,Total,2011,7.2
+2.0,UE Occidentale,Belgium,Total,2012,7.6
+2.0,UE Occidentale,Belgium,Total,2013,8.6
+2.0,UE Occidentale,Belgium,Total,2014,8.7
+2.0,UE Occidentale,Belgium,Total,2015,8.7
+2.0,UE Occidentale,Belgium,Total,2016,7.9
+2.0,UE Occidentale,Belgium,Total,2017,7.2
+2.0,UE Occidentale,Belgium,Total,2018,6.0
+2.0,UE Occidentale,Belgium,Total,2019,5.5
+2.0,UE Occidentale,Belgium,Total,2020,5.8
+2.0,UE Occidentale,Belgium,Total,2021,6.3
+2.0,UE Occidentale,Belgium,Total,2022,5.6
+2.0,UE Occidentale,Belgium,Total,2023,5.5
+2.0,UE Occidentale,Belgium,Total,2024,5.7
+4.0,UE Est Centrale,Bulgaria,Total,2009,7.9
+4.0,UE Est Centrale,Bulgaria,Total,2010,11.3
+4.0,UE Est Centrale,Bulgaria,Total,2011,12.3
+4.0,UE Est Centrale,Bulgaria,Total,2012,13.3
+4.0,UE Est Centrale,Bulgaria,Total,2013,13.9
+4.0,UE Est Centrale,Bulgaria,Total,2014,12.4
+4.0,UE Est Centrale,Bulgaria,Total,2015,10.1
+4.0,UE Est Centrale,Bulgaria,Total,2016,8.6
+4.0,UE Est Centrale,Bulgaria,Total,2017,7.2
+4.0,UE Est Centrale,Bulgaria,Total,2018,6.2
+4.0,UE Est Centrale,Bulgaria,Total,2019,5.2
+4.0,UE Est Centrale,Bulgaria,Total,2020,6.1
+4.0,UE Est Centrale,Bulgaria,Total,2021,5.2
+4.0,UE Est Centrale,Bulgaria,Total,2022,4.2
+4.0,UE Est Centrale,Bulgaria,Total,2023,4.3
+4.0,UE Est Centrale,Bulgaria,Total,2024,4.2
+35.0,Altro,Switzerland,Total,2010,4.8
+35.0,Altro,Switzerland,Total,2011,4.4
+35.0,Altro,Switzerland,Total,2012,4.5
+35.0,Altro,Switzerland,Total,2013,4.8
+35.0,Altro,Switzerland,Total,2014,4.9
+35.0,Altro,Switzerland,Total,2015,4.8
+35.0,Altro,Switzerland,Total,2016,5.0
+35.0,Altro,Switzerland,Total,2017,4.8
+35.0,Altro,Switzerland,Total,2018,4.7
+35.0,Altro,Switzerland,Total,2019,4.4
+35.0,Altro,Switzerland,Total,2020,4.8
+35.0,Altro,Switzerland,Total,2021,5.1
+35.0,Altro,Switzerland,Total,2022,4.1
+35.0,Altro,Switzerland,Total,2023,4.1
+35.0,Altro,Switzerland,Total,2024,4.4
+6.0,UE Meridionale,Cyprus,Total,2009,5.4
+6.0,UE Meridionale,Cyprus,Total,2010,6.3
+6.0,UE Meridionale,Cyprus,Total,2011,7.9
+6.0,UE Meridionale,Cyprus,Total,2012,11.9
+6.0,UE Meridionale,Cyprus,Total,2013,15.9
+6.0,UE Meridionale,Cyprus,Total,2014,16.1
+6.0,UE Meridionale,Cyprus,Total,2015,15.0
+6.0,UE Meridionale,Cyprus,Total,2016,13.0
+6.0,UE Meridionale,Cyprus,Total,2017,11.1
+6.0,UE Meridionale,Cyprus,Total,2018,8.4
+6.0,UE Meridionale,Cyprus,Total,2019,7.2
+6.0,UE Meridionale,Cyprus,Total,2020,7.6
+6.0,UE Meridionale,Cyprus,Total,2021,7.2
+6.0,UE Meridionale,Cyprus,Total,2022,6.3
+6.0,UE Meridionale,Cyprus,Total,2023,5.8
+6.0,UE Meridionale,Cyprus,Total,2024,4.9
+7.0,UE Est Centrale,Czechia,Total,2009,6.7
+7.0,UE Est Centrale,Czechia,Total,2010,7.3
+7.0,UE Est Centrale,Czechia,Total,2011,6.7
+7.0,UE Est Centrale,Czechia,Total,2012,7.0
+7.0,UE Est Centrale,Czechia,Total,2013,7.0
+7.0,UE Est Centrale,Czechia,Total,2014,6.1
+7.0,UE Est Centrale,Czechia,Total,2015,5.1
+7.0,UE Est Centrale,Czechia,Total,2016,4.0
+7.0,UE Est Centrale,Czechia,Total,2017,2.9
+7.0,UE Est Centrale,Czechia,Total,2018,2.2
+7.0,UE Est Centrale,Czechia,Total,2019,2.0
+7.0,UE Est Centrale,Czechia,Total,2020,2.6
+7.0,UE Est Centrale,Czechia,Total,2021,2.8
+7.0,UE Est Centrale,Czechia,Total,2022,2.2
+7.0,UE Est Centrale,Czechia,Total,2023,2.6
+7.0,UE Est Centrale,Czechia,Total,2024,2.6
+12.0,UE Occidentale,Germany,Total,2009,7.3
+12.0,UE Occidentale,Germany,Total,2010,6.6
+12.0,UE Occidentale,Germany,Total,2011,5.5
+12.0,UE Occidentale,Germany,Total,2012,5.1
+12.0,UE Occidentale,Germany,Total,2013,4.9
+12.0,UE Occidentale,Germany,Total,2014,4.7
+12.0,UE Occidentale,Germany,Total,2015,4.4
+12.0,UE Occidentale,Germany,Total,2016,3.9
+12.0,UE Occidentale,Germany,Total,2017,3.5
+12.0,UE Occidentale,Germany,Total,2018,3.2
+12.0,UE Occidentale,Germany,Total,2019,2.9
+12.0,UE Occidentale,Germany,Total,2020,3.6
+12.0,UE Occidentale,Germany,Total,2021,3.6
+12.0,UE Occidentale,Germany,Total,2022,3.1
+12.0,UE Occidentale,Germany,Total,2023,3.1
+12.0,UE Occidentale,Germany,Total,2024,3.4
+8.0,UE Scandinava,Denmark,Total,2009,6.4
+8.0,UE Scandinava,Denmark,Total,2010,7.7
+8.0,UE Scandinava,Denmark,Total,2011,7.8
+8.0,UE Scandinava,Denmark,Total,2012,7.8
+8.0,UE Scandinava,Denmark,Total,2013,7.4
+8.0,UE Scandinava,Denmark,Total,2014,6.9
+8.0,UE Scandinava,Denmark,Total,2015,6.3
+8.0,UE Scandinava,Denmark,Total,2016,6.0
+8.0,UE Scandinava,Denmark,Total,2017,5.8
+8.0,UE Scandinava,Denmark,Total,2018,5.1
+8.0,UE Scandinava,Denmark,Total,2019,5.0
+8.0,UE Scandinava,Denmark,Total,2020,5.6
+8.0,UE Scandinava,Denmark,Total,2021,5.1
+8.0,UE Scandinava,Denmark,Total,2022,4.5
+8.0,UE Scandinava,Denmark,Total,2023,5.1
+8.0,UE Scandinava,Denmark,Total,2024,6.2
+9.0,UE Est Centrale,Estonia,Total,2009,13.5
+9.0,UE Est Centrale,Estonia,Total,2010,16.6
+9.0,UE Est Centrale,Estonia,Total,2011,12.3
+9.0,UE Est Centrale,Estonia,Total,2012,9.9
+9.0,UE Est Centrale,Estonia,Total,2013,8.6
+9.0,UE Est Centrale,Estonia,Total,2014,7.3
+9.0,UE Est Centrale,Estonia,Total,2015,6.4
+9.0,UE Est Centrale,Estonia,Total,2016,6.8
+9.0,UE Est Centrale,Estonia,Total,2017,5.8
+9.0,UE Est Centrale,Estonia,Total,2018,5.4
+9.0,UE Est Centrale,Estonia,Total,2019,4.5
+9.0,UE Est Centrale,Estonia,Total,2020,6.9
+9.0,UE Est Centrale,Estonia,Total,2021,6.2
+9.0,UE Est Centrale,Estonia,Total,2022,5.6
+9.0,UE Est Centrale,Estonia,Total,2023,6.4
+9.0,UE Est Centrale,Estonia,Total,2024,7.6
+13.0,UE Meridionale,Greece,Total,2009,9.8
+13.0,UE Meridionale,Greece,Total,2010,12.9
+13.0,UE Meridionale,Greece,Total,2011,18.1
+13.0,UE Meridionale,Greece,Total,2012,24.8
+13.0,UE Meridionale,Greece,Total,2013,27.8
+13.0,UE Meridionale,Greece,Total,2014,26.6
+13.0,UE Meridionale,Greece,Total,2015,25.0
+13.0,UE Meridionale,Greece,Total,2016,23.9
+13.0,UE Meridionale,Greece,Total,2017,21.8
+13.0,UE Meridionale,Greece,Total,2018,19.7
+13.0,UE Meridionale,Greece,Total,2019,17.9
+13.0,UE Meridionale,Greece,Total,2020,17.6
+13.0,UE Meridionale,Greece,Total,2021,14.7
+13.0,UE Meridionale,Greece,Total,2022,12.5
+13.0,UE Meridionale,Greece,Total,2023,11.1
+13.0,UE Meridionale,Greece,Total,2024,10.1
+33.0,UE Meridionale,Spain,Total,2009,17.9
+33.0,UE Meridionale,Spain,Total,2010,19.9
+33.0,UE Meridionale,Spain,Total,2011,21.4
+33.0,UE Meridionale,Spain,Total,2012,24.8
+33.0,UE Meridionale,Spain,Total,2013,26.1
+33.0,UE Meridionale,Spain,Total,2014,24.5
+33.0,UE Meridionale,Spain,Total,2015,22.1
+33.0,UE Meridionale,Spain,Total,2016,19.6
+33.0,UE Meridionale,Spain,Total,2017,17.2
+33.0,UE Meridionale,Spain,Total,2018,15.3
+33.0,UE Meridionale,Spain,Total,2019,14.1
+33.0,UE Meridionale,Spain,Total,2020,15.5
+33.0,UE Meridionale,Spain,Total,2021,14.9
+33.0,UE Meridionale,Spain,Total,2022,13.0
+33.0,UE Meridionale,Spain,Total,2023,12.2
+33.0,UE Meridionale,Spain,Total,2024,11.4
+41.0,Altro,European Union,Total,2009,9.3
+41.0,Altro,European Union,Total,2010,10.1
+41.0,Altro,European Union,Total,2011,10.1
+41.0,Altro,European Union,Total,2012,11.1
+41.0,Altro,European Union,Total,2013,11.6
+41.0,Altro,European Union,Total,2014,11.0
+41.0,Altro,European Union,Total,2015,10.2
+41.0,Altro,European Union,Total,2016,9.3
+41.0,Altro,European Union,Total,2017,8.3
+41.0,Altro,European Union,Total,2018,7.4
+41.0,Altro,European Union,Total,2019,6.8
+41.0,Altro,European Union,Total,2020,7.2
+41.0,Altro,European Union,Total,2021,7.1
+41.0,Altro,European Union,Total,2022,6.2
+41.0,Altro,European Union,Total,2023,6.1
+41.0,Altro,European Union,Total,2024,5.9
+10.0,UE Scandinava,Finland,Total,2009,8.3
+10.0,UE Scandinava,Finland,Total,2010,8.6
+10.0,UE Scandinava,Finland,Total,2011,8.0
+10.0,UE Scandinava,Finland,Total,2012,7.9
+10.0,UE Scandinava,Finland,Total,2013,8.3
+10.0,UE Scandinava,Finland,Total,2014,8.7
+10.0,UE Scandinava,Finland,Total,2015,9.4
+10.0,UE Scandinava,Finland,Total,2016,8.9
+10.0,UE Scandinava,Finland,Total,2017,8.7
+10.0,UE Scandinava,Finland,Total,2018,7.5
+10.0,UE Scandinava,Finland,Total,2019,6.8
+10.0,UE Scandinava,Finland,Total,2020,7.7
+10.0,UE Scandinava,Finland,Total,2021,7.7
+10.0,UE Scandinava,Finland,Total,2022,6.8
+10.0,UE Scandinava,Finland,Total,2023,7.2
+10.0,UE Scandinava,Finland,Total,2024,8.4
+11.0,UE Occidentale,France,Total,2009,9.1
+11.0,UE Occidentale,France,Total,2010,9.3
+11.0,UE Occidentale,France,Total,2011,9.2
+11.0,UE Occidentale,France,Total,2012,9.8
+11.0,UE Occidentale,France,Total,2013,10.3
+11.0,UE Occidentale,France,Total,2014,10.3
+11.0,UE Occidentale,France,Total,2015,10.3
+11.0,UE Occidentale,France,Total,2016,10.1
+11.0,UE Occidentale,France,Total,2017,9.4
+11.0,UE Occidentale,France,Total,2018,9.0
+11.0,UE Occidentale,France,Total,2019,8.4
+11.0,UE Occidentale,France,Total,2020,8.0
+11.0,UE Occidentale,France,Total,2021,7.9
+11.0,UE Occidentale,France,Total,2022,7.3
+11.0,UE Occidentale,France,Total,2023,7.3
+11.0,UE Occidentale,France,Total,2024,7.4
+5.0,UE Est Centrale,Croatia,Total,2009,9.2
+5.0,UE Est Centrale,Croatia,Total,2010,11.7
+5.0,UE Est Centrale,Croatia,Total,2011,13.7
+5.0,UE Est Centrale,Croatia,Total,2012,16.1
+5.0,UE Est Centrale,Croatia,Total,2013,17.3
+5.0,UE Est Centrale,Croatia,Total,2014,17.3
+5.0,UE Est Centrale,Croatia,Total,2015,16.2
+5.0,UE Est Centrale,Croatia,Total,2016,13.0
+5.0,UE Est Centrale,Croatia,Total,2017,11.1
+5.0,UE Est Centrale,Croatia,Total,2018,8.3
+5.0,UE Est Centrale,Croatia,Total,2019,6.6
+5.0,UE Est Centrale,Croatia,Total,2020,7.4
+5.0,UE Est Centrale,Croatia,Total,2021,7.5
+5.0,UE Est Centrale,Croatia,Total,2022,6.8
+5.0,UE Est Centrale,Croatia,Total,2023,6.1
+5.0,UE Est Centrale,Croatia,Total,2024,5.0
+14.0,UE Est Centrale,Hungary,Total,2009,9.7
+14.0,UE Est Centrale,Hungary,Total,2010,10.8
+14.0,UE Est Centrale,Hungary,Total,2011,10.7
+14.0,UE Est Centrale,Hungary,Total,2012,10.7
+14.0,UE Est Centrale,Hungary,Total,2013,9.8
+14.0,UE Est Centrale,Hungary,Total,2014,7.5
+14.0,UE Est Centrale,Hungary,Total,2015,6.6
+14.0,UE Est Centrale,Hungary,Total,2016,5.0
+14.0,UE Est Centrale,Hungary,Total,2017,4.0
+14.0,UE Est Centrale,Hungary,Total,2018,3.6
+14.0,UE Est Centrale,Hungary,Total,2019,3.3
+14.0,UE Est Centrale,Hungary,Total,2020,4.1
+14.0,UE Est Centrale,Hungary,Total,2021,4.0
+14.0,UE Est Centrale,Hungary,Total,2022,3.6
+14.0,UE Est Centrale,Hungary,Total,2023,4.1
+14.0,UE Est Centrale,Hungary,Total,2024,4.5
+16.0,UE Occidentale,Ireland,Total,2009,12.6
+16.0,UE Occidentale,Ireland,Total,2010,14.6
+16.0,UE Occidentale,Ireland,Total,2011,15.4
+16.0,UE Occidentale,Ireland,Total,2012,15.5
+16.0,UE Occidentale,Ireland,Total,2013,13.8
+16.0,UE Occidentale,Ireland,Total,2014,11.9
+16.0,UE Occidentale,Ireland,Total,2015,9.9
+16.0,UE Occidentale,Ireland,Total,2016,8.4
+16.0,UE Occidentale,Ireland,Total,2017,6.7
+16.0,UE Occidentale,Ireland,Total,2018,5.8
+16.0,UE Occidentale,Ireland,Total,2019,5.0
+16.0,UE Occidentale,Ireland,Total,2020,5.9
+16.0,UE Occidentale,Ireland,Total,2021,6.2
+16.0,UE Occidentale,Ireland,Total,2022,4.5
+16.0,UE Occidentale,Ireland,Total,2023,4.3
+16.0,UE Occidentale,Ireland,Total,2024,4.3
+15.0,Altro,Iceland,Total,2009,7.2
+15.0,Altro,Iceland,Total,2010,7.6
+15.0,Altro,Iceland,Total,2011,7.0
+15.0,Altro,Iceland,Total,2012,6.0
+15.0,Altro,Iceland,Total,2013,5.4
+15.0,Altro,Iceland,Total,2014,4.9
+15.0,Altro,Iceland,Total,2015,4.0
+15.0,Altro,Iceland,Total,2016,3.0
+15.0,Altro,Iceland,Total,2017,2.7
+15.0,Altro,Iceland,Total,2018,2.7
+15.0,Altro,Iceland,Total,2019,3.5
+15.0,Altro,Iceland,Total,2020,5.5
+15.0,Altro,Iceland,Total,2021,6.1
+15.0,Altro,Iceland,Total,2022,3.8
+15.0,Altro,Iceland,Total,2023,3.5
+15.0,Altro,Iceland,Total,2024,3.6
+17.0,UE Meridionale,Italy,Total,2009,7.9
+17.0,UE Meridionale,Italy,Total,2010,8.5
+17.0,UE Meridionale,Italy,Total,2011,8.5
+17.0,UE Meridionale,Italy,Total,2012,10.9
+17.0,UE Meridionale,Italy,Total,2013,12.4
+17.0,UE Meridionale,Italy,Total,2014,12.9
+17.0,UE Meridionale,Italy,Total,2015,12.0
+17.0,UE Meridionale,Italy,Total,2016,11.7
+17.0,UE Meridionale,Italy,Total,2017,11.3
+17.0,UE Meridionale,Italy,Total,2018,10.6
+17.0,UE Meridionale,Italy,Total,2019,9.9
+17.0,UE Meridionale,Italy,Total,2020,9.3
+17.0,UE Meridionale,Italy,Total,2021,9.5
+17.0,UE Meridionale,Italy,Total,2022,8.1
+17.0,UE Meridionale,Italy,Total,2023,7.7
+17.0,UE Meridionale,Italy,Total,2024,6.5
+20.0,UE Est Centrale,Lithuania,Total,2009,13.8
+20.0,UE Est Centrale,Lithuania,Total,2010,17.8
+20.0,UE Est Centrale,Lithuania,Total,2011,15.4
+20.0,UE Est Centrale,Lithuania,Total,2012,13.4
+20.0,UE Est Centrale,Lithuania,Total,2013,11.8
+20.0,UE Est Centrale,Lithuania,Total,2014,10.7
+20.0,UE Est Centrale,Lithuania,Total,2015,9.1
+20.0,UE Est Centrale,Lithuania,Total,2016,7.9
+20.0,UE Est Centrale,Lithuania,Total,2017,7.1
+20.0,UE Est Centrale,Lithuania,Total,2018,6.2
+20.0,UE Est Centrale,Lithuania,Total,2019,6.3
+20.0,UE Est Centrale,Lithuania,Total,2020,8.5
+20.0,UE Est Centrale,Lithuania,Total,2021,7.1
+20.0,UE Est Centrale,Lithuania,Total,2022,6.0
+20.0,UE Est Centrale,Lithuania,Total,2023,6.9
+20.0,UE Est Centrale,Lithuania,Total,2024,7.1
+21.0,UE Occidentale,Luxembourg,Total,2009,5.1
+21.0,UE Occidentale,Luxembourg,Total,2010,4.4
+21.0,UE Occidentale,Luxembourg,Total,2011,4.9
+21.0,UE Occidentale,Luxembourg,Total,2012,5.1
+21.0,UE Occidentale,Luxembourg,Total,2013,5.9
+21.0,UE Occidentale,Luxembourg,Total,2014,5.9
+21.0,UE Occidentale,Luxembourg,Total,2015,6.7
+21.0,UE Occidentale,Luxembourg,Total,2016,6.3
+21.0,UE Occidentale,Luxembourg,Total,2017,5.5
+21.0,UE Occidentale,Luxembourg,Total,2018,5.6
+21.0,UE Occidentale,Luxembourg,Total,2019,5.6
+21.0,UE Occidentale,Luxembourg,Total,2020,6.8
+21.0,UE Occidentale,Luxembourg,Total,2021,5.3
+21.0,UE Occidentale,Luxembourg,Total,2022,4.6
+21.0,UE Occidentale,Luxembourg,Total,2023,5.2
+21.0,UE Occidentale,Luxembourg,Total,2024,6.4
+19.0,UE Est Centrale,Latvia,Total,2009,17.7
+19.0,UE Est Centrale,Latvia,Total,2010,19.7
+19.0,UE Est Centrale,Latvia,Total,2011,16.3
+19.0,UE Est Centrale,Latvia,Total,2012,15.1
+19.0,UE Est Centrale,Latvia,Total,2013,11.9
+19.0,UE Est Centrale,Latvia,Total,2014,10.9
+19.0,UE Est Centrale,Latvia,Total,2015,9.9
+19.0,UE Est Centrale,Latvia,Total,2016,9.7
+19.0,UE Est Centrale,Latvia,Total,2017,8.7
+19.0,UE Est Centrale,Latvia,Total,2018,7.4
+19.0,UE Est Centrale,Latvia,Total,2019,6.3
+19.0,UE Est Centrale,Latvia,Total,2020,8.1
+19.0,UE Est Centrale,Latvia,Total,2021,7.6
+19.0,UE Est Centrale,Latvia,Total,2022,6.9
+19.0,UE Est Centrale,Latvia,Total,2023,6.5
+19.0,UE Est Centrale,Latvia,Total,2024,6.9
+23.0,Altro,Montenegro,Total,2011,19.7
+23.0,Altro,Montenegro,Total,2012,20.0
+23.0,Altro,Montenegro,Total,2013,19.5
+23.0,Altro,Montenegro,Total,2014,18.0
+23.0,Altro,Montenegro,Total,2015,17.6
+23.0,Altro,Montenegro,Total,2016,17.8
+23.0,Altro,Montenegro,Total,2017,16.1
+23.0,Altro,Montenegro,Total,2018,15.2
+23.0,Altro,Montenegro,Total,2019,15.2
+23.0,Altro,Montenegro,Total,2020,17.9
+25.0,Altro,North Macedonia,Total,2009,32.2
+25.0,Altro,North Macedonia,Total,2010,32.0
+25.0,Altro,North Macedonia,Total,2011,31.4
+25.0,Altro,North Macedonia,Total,2012,31.0
+25.0,Altro,North Macedonia,Total,2013,29.0
+25.0,Altro,North Macedonia,Total,2014,28.0
+25.0,Altro,North Macedonia,Total,2015,26.1
+25.0,Altro,North Macedonia,Total,2016,23.7
+25.0,Altro,North Macedonia,Total,2017,22.4
+25.0,Altro,North Macedonia,Total,2018,20.8
+25.0,Altro,North Macedonia,Total,2019,17.3
+25.0,Altro,North Macedonia,Total,2020,16.4
+22.0,UE Meridionale,Malta,Total,2009,6.9
+22.0,UE Meridionale,Malta,Total,2010,6.9
+22.0,UE Meridionale,Malta,Total,2011,6.4
+22.0,UE Meridionale,Malta,Total,2012,6.2
+22.0,UE Meridionale,Malta,Total,2013,6.1
+22.0,UE Meridionale,Malta,Total,2014,5.7
+22.0,UE Meridionale,Malta,Total,2015,5.4
+22.0,UE Meridionale,Malta,Total,2016,4.7
+22.0,UE Meridionale,Malta,Total,2017,4.0
+22.0,UE Meridionale,Malta,Total,2018,4.0
+22.0,UE Meridionale,Malta,Total,2019,4.1
+22.0,UE Meridionale,Malta,Total,2020,4.9
+22.0,UE Meridionale,Malta,Total,2021,3.8
+22.0,UE Meridionale,Malta,Total,2022,3.5
+22.0,UE Meridionale,Malta,Total,2023,3.5
+22.0,UE Meridionale,Malta,Total,2024,3.1
+24.0,UE Occidentale,Netherlands,Total,2009,5.4
+24.0,UE Occidentale,Netherlands,Total,2010,6.1
+24.0,UE Occidentale,Netherlands,Total,2011,6.0
+24.0,UE Occidentale,Netherlands,Total,2012,6.8
+24.0,UE Occidentale,Netherlands,Total,2013,8.2
+24.0,UE Occidentale,Netherlands,Total,2014,8.4
+24.0,UE Occidentale,Netherlands,Total,2015,7.9
+24.0,UE Occidentale,Netherlands,Total,2016,7.0
+24.0,UE Occidentale,Netherlands,Total,2017,5.9
+24.0,UE Occidentale,Netherlands,Total,2018,4.9
+24.0,UE Occidentale,Netherlands,Total,2019,4.4
+24.0,UE Occidentale,Netherlands,Total,2020,4.9
+24.0,UE Occidentale,Netherlands,Total,2021,4.2
+24.0,UE Occidentale,Netherlands,Total,2022,3.5
+24.0,UE Occidentale,Netherlands,Total,2023,3.6
+24.0,UE Occidentale,Netherlands,Total,2024,3.7
+26.0,Altro,Norway,Total,2009,3.4
+26.0,Altro,Norway,Total,2010,4.0
+26.0,Altro,Norway,Total,2011,3.6
+26.0,Altro,Norway,Total,2012,3.5
+26.0,Altro,Norway,Total,2013,3.9
+26.0,Altro,Norway,Total,2014,3.8
+26.0,Altro,Norway,Total,2015,4.7
+26.0,Altro,Norway,Total,2016,4.9
+26.0,Altro,Norway,Total,2017,4.4
+26.0,Altro,Norway,Total,2018,4.0
+26.0,Altro,Norway,Total,2019,3.9
+26.0,Altro,Norway,Total,2020,4.7
+26.0,Altro,Norway,Total,2021,4.4
+26.0,Altro,Norway,Total,2022,3.2
+26.0,Altro,Norway,Total,2023,3.6
+26.0,Altro,Norway,Total,2024,4.0
+27.0,UE Est Centrale,Poland,Total,2009,8.5
+27.0,UE Est Centrale,Poland,Total,2010,10.0
+27.0,UE Est Centrale,Poland,Total,2011,10.0
+27.0,UE Est Centrale,Poland,Total,2012,10.4
+27.0,UE Est Centrale,Poland,Total,2013,10.6
+27.0,UE Est Centrale,Poland,Total,2014,9.2
+27.0,UE Est Centrale,Poland,Total,2015,7.7
+27.0,UE Est Centrale,Poland,Total,2016,6.3
+27.0,UE Est Centrale,Poland,Total,2017,5.0
+27.0,UE Est Centrale,Poland,Total,2018,3.9
+27.0,UE Est Centrale,Poland,Total,2019,3.3
+27.0,UE Est Centrale,Poland,Total,2020,3.2
+27.0,UE Est Centrale,Poland,Total,2021,3.4
+27.0,UE Est Centrale,Poland,Total,2022,2.9
+27.0,UE Est Centrale,Poland,Total,2023,2.8
+27.0,UE Est Centrale,Poland,Total,2024,2.9
+28.0,UE Meridionale,Portugal,Total,2009,11.2
+28.0,UE Meridionale,Portugal,Total,2010,12.6
+28.0,UE Meridionale,Portugal,Total,2011,13.5
+28.0,UE Meridionale,Portugal,Total,2012,16.6
+28.0,UE Meridionale,Portugal,Total,2013,17.2
+28.0,UE Meridionale,Portugal,Total,2014,14.6
+28.0,UE Meridionale,Portugal,Total,2015,13.0
+28.0,UE Meridionale,Portugal,Total,2016,11.5
+28.0,UE Meridionale,Portugal,Total,2017,9.2
+28.0,UE Meridionale,Portugal,Total,2018,7.2
+28.0,UE Meridionale,Portugal,Total,2019,6.6
+28.0,UE Meridionale,Portugal,Total,2020,7.1
+28.0,UE Meridionale,Portugal,Total,2021,6.7
+28.0,UE Meridionale,Portugal,Total,2022,6.2
+28.0,UE Meridionale,Portugal,Total,2023,6.5
+28.0,UE Meridionale,Portugal,Total,2024,6.5
+29.0,UE Est Centrale,Romania,Total,2009,8.4
+29.0,UE Est Centrale,Romania,Total,2010,9.0
+29.0,UE Est Centrale,Romania,Total,2011,9.1
+29.0,UE Est Centrale,Romania,Total,2012,8.7
+29.0,UE Est Centrale,Romania,Total,2013,9.0
+29.0,UE Est Centrale,Romania,Total,2014,8.6
+29.0,UE Est Centrale,Romania,Total,2015,8.4
+29.0,UE Est Centrale,Romania,Total,2016,7.2
+29.0,UE Est Centrale,Romania,Total,2017,6.1
+29.0,UE Est Centrale,Romania,Total,2018,5.3
+29.0,UE Est Centrale,Romania,Total,2019,4.9
+29.0,UE Est Centrale,Romania,Total,2020,6.1
+29.0,UE Est Centrale,Romania,Total,2021,5.6
+29.0,UE Est Centrale,Romania,Total,2022,5.6
+29.0,UE Est Centrale,Romania,Total,2023,5.6
+29.0,UE Est Centrale,Romania,Total,2024,5.4
+30.0,Altro,Serbia,Total,2010,21.1
+30.0,Altro,Serbia,Total,2011,25.0
+30.0,Altro,Serbia,Total,2012,26.0
+30.0,Altro,Serbia,Total,2013,24.2
+30.0,Altro,Serbia,Total,2014,20.7
+30.0,Altro,Serbia,Total,2015,19.0
+30.0,Altro,Serbia,Total,2016,16.5
+30.0,Altro,Serbia,Total,2017,14.6
+30.0,Altro,Serbia,Total,2018,13.8
+30.0,Altro,Serbia,Total,2019,11.3
+30.0,Altro,Serbia,Total,2020,9.8
+30.0,Altro,Serbia,Total,2021,11.2
+30.0,Altro,Serbia,Total,2022,9.6
+30.0,Altro,Serbia,Total,2023,9.5
+30.0,Altro,Serbia,Total,2024,8.6
+34.0,UE Scandinava,Sweden,Total,2009,8.5
+34.0,UE Scandinava,Sweden,Total,2010,8.7
+34.0,UE Scandinava,Sweden,Total,2011,7.9
+34.0,UE Scandinava,Sweden,Total,2012,8.1
+34.0,UE Scandinava,Sweden,Total,2013,8.1
+34.0,UE Scandinava,Sweden,Total,2014,8.0
+34.0,UE Scandinava,Sweden,Total,2015,7.5
+34.0,UE Scandinava,Sweden,Total,2016,7.1
+34.0,UE Scandinava,Sweden,Total,2017,6.8
+34.0,UE Scandinava,Sweden,Total,2018,6.5
+34.0,UE Scandinava,Sweden,Total,2019,6.9
+34.0,UE Scandinava,Sweden,Total,2020,8.5
+34.0,UE Scandinava,Sweden,Total,2021,8.9
+34.0,UE Scandinava,Sweden,Total,2022,7.5
+34.0,UE Scandinava,Sweden,Total,2023,7.7
+34.0,UE Scandinava,Sweden,Total,2024,8.4
+32.0,UE Est Centrale,Slovenia,Total,2009,5.9
+32.0,UE Est Centrale,Slovenia,Total,2010,7.3
+32.0,UE Est Centrale,Slovenia,Total,2011,8.2
+32.0,UE Est Centrale,Slovenia,Total,2012,8.9
+32.0,UE Est Centrale,Slovenia,Total,2013,10.1
+32.0,UE Est Centrale,Slovenia,Total,2014,9.7
+32.0,UE Est Centrale,Slovenia,Total,2015,9.0
+32.0,UE Est Centrale,Slovenia,Total,2016,8.0
+32.0,UE Est Centrale,Slovenia,Total,2017,6.6
+32.0,UE Est Centrale,Slovenia,Total,2018,5.1
+32.0,UE Est Centrale,Slovenia,Total,2019,4.4
+32.0,UE Est Centrale,Slovenia,Total,2020,5.0
+32.0,UE Est Centrale,Slovenia,Total,2021,4.8
+32.0,UE Est Centrale,Slovenia,Total,2022,4.0
+32.0,UE Est Centrale,Slovenia,Total,2023,3.7
+32.0,UE Est Centrale,Slovenia,Total,2024,3.7
+31.0,UE Est Centrale,Slovakia,Total,2009,12.0
+31.0,UE Est Centrale,Slovakia,Total,2010,14.3
+31.0,UE Est Centrale,Slovakia,Total,2011,13.5
+31.0,UE Est Centrale,Slovakia,Total,2012,13.9
+31.0,UE Est Centrale,Slovakia,Total,2013,14.1
+31.0,UE Est Centrale,Slovakia,Total,2014,13.1
+31.0,UE Est Centrale,Slovakia,Total,2015,11.5
+31.0,UE Est Centrale,Slovakia,Total,2016,9.6
+31.0,UE Est Centrale,Slovakia,Total,2017,8.1
+31.0,UE Est Centrale,Slovakia,Total,2018,6.5
+31.0,UE Est Centrale,Slovakia,Total,2019,5.7
+31.0,UE Est Centrale,Slovakia,Total,2020,6.7
+31.0,UE Est Centrale,Slovakia,Total,2021,6.8
+31.0,UE Est Centrale,Slovakia,Total,2022,6.1
+31.0,UE Est Centrale,Slovakia,Total,2023,5.8
+31.0,UE Est Centrale,Slovakia,Total,2024,5.3
