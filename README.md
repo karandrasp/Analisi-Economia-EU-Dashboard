@@ -3,7 +3,7 @@ Un progetto di (ETL) da fonti pubbliche (Eurostat) utilizzando Python (Pandas, S
 
 ---
 
-### 📊 Dashboard Interattivo
+### Dashboard Interattivo
 
 **Esplora il report completo e interattivo generato da questo progetto al seguente link:**
 
@@ -11,14 +11,14 @@ Un progetto di (ETL) da fonti pubbliche (Eurostat) utilizzando Python (Pandas, S
 
 ---
 
-### 📸 Anteprima del Dashboard
+### Anteprima del Dashboard
 
 <img width="1387" height="760" alt="image" src="https://github.com/user-attachments/assets/dba33a04-0e48-4137-8417-1cc6f1b46cc0" />
 
 
 ---
 
-### 🎯 Obiettivo del Progetto
+### Obiettivo del Progetto
 
 L'obiettivo di questo progetto è dimostrare la costruzione di una pipeline di dati robusta e scalabile, gestendo l'intero ciclo di vita del dato. Partendo da dataset grezzi eterogenei del portale **Eurostat**, il progetto realizza:
 1.  Un **processo ETL (Extract, Transform, Load)** automatizzato e riproducibile per pulire, modellare e arricchire i dati.
@@ -27,7 +27,7 @@ L'obiettivo di questo progetto è dimostrare la costruzione di una pipeline di d
 
 ---
 
-### 🛠️ Architettura Tecnica e Flusso di Lavoro
+### Architettura Tecnica e Flusso di Lavoro
 
 Il progetto è strutturato in quattro fasi distinte, ognuna con tecnologie specifiche per garantire efficienza e best practice.
 
@@ -62,7 +62,7 @@ Il front-end analitico del progetto è un dashboard interattivo.
 
 ---
 
-### 💡 Insight Principali
+### Insight Principali
 
 Dall'analisi del dashboard sono emersi i seguenti punti chiave:
 
