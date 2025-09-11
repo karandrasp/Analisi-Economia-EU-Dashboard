@@ -7,7 +7,11 @@ Un progetto di (ETL) da fonti pubbliche (Eurostat) utilizzando Python (Pandas, S
 
 **Esplora il report completo e interattivo generato da questo progetto al seguente link:**
 
-<iframe title="Progetto_Europa" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMTM2NWQzNDMtMWI3My00YWNjLWJkYWQtMzE0NmQ5NTVlY2Q3IiwidCI6ImM5NDI0M2ViLTZmMGUtNDU2Ni1hMjk2LWI1ZGZjOWQyNTczYiIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+### 📊 Dashboard Interattivo
+
+**Esplora il report completo e interattivo generato da questo progetto al seguente link:**
+
+[**>> VISUALIZZA IL DASHBOARD LIVE <<**](https://app.powerbi.com/view?r=eyJrIjoiMTM2NWQzNDMtMWI3My00YWNjLWJkYWQtMZE0NmQ5NTY1Y2Q3IiwidCI6ImM5NDI0M2ViLTZmNDItNDU2Mi04ZmM2LTNDU2NiMjNiMjk2Ni1hMjIzOWQyOWQyOWQyYjI5OWQyOWQyOWQyOWQyOWQifQ%3D%3D)
 
 ---
 
