@@ -60,19 +60,4 @@ Il front-end analitico del progetto è un dashboard interattivo.
 * **Connessione Dati:** **Power BI Desktop** si connette in tempo reale al database MySQL, interrogando le SQL Views predefinite.
 * **Interattività:** Il report finale consente agli utenti di filtrare, esplorare e analizzare i dati attraverso grafici e tabelle dinamiche.
 
----
 
-### Insight Principali
-
-Dall'analisi del dashboard sono emersi i seguenti punti chiave:
-
-* **[INSIGHT 1: Descrivi qui la scoperta più importante. Esempio: "È stata identificata una forte correlazione negativa tra il tasso di disoccupazione giovanile e l'investimento pro-capite in educazione terziaria."]*
-* **[INSIGHT 2: Descrivi qui una seconda scoperta interessante. Esempio: "I paesi con un PIL derivante in maggior parte dal settore dei servizi hanno mostrato una resilienza maggiore durante la crisi economica del 2020."]*
-* **[INSIGHT 3: Descrivi qui un terzo insight o un pattern notato. Esempio: "Si osserva un trend di crescita demografica costante nei paesi nordici, a differenza della stagnazione registrata nell'Europa meridionale."]*
-
----
-
-### Struttura del Repository
-
-* `/Progetto_Europa.pbix`: Il file sorgente del report Power BI.
-* `/data/`: Contiene i file `.csv` originali scaricati da Eurostat.
